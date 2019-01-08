@@ -1,0 +1,113 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Includes</name>
+      <values lines_count="6">
+        <Line>"${ProjDirPath}/SDK/platform/drivers/src/clock/S32K1xx"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/common"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/S32K144/include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/S32K144/startup"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/drivers/inc"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_S32K144_100"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/FreeRTOS/Source/portable/MemMang/heap_1.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173200" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/stream_buffer.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173309" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/stream_buffer.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173305" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/devices/S32K144/include/S32K144_features.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830871" FileType="1048576" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/event_groups.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173303" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/devices/device_registers.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830855" FileType="1048576" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830887" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/FreeRTOS.c" FileDate="2019-01-08, 23:08:56" FileAge="1546985336149" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/UTIL1config.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173341" FileType="45637" CompNumb="6" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/sim_hw_access.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830846" FileType="1048576" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2019-01-08, 22:10:30" FileAge="1546981830885" FileType="45637" CompNumb="2" />
+      <File Name="SDK/platform/devices/S32K144/include/S32K144.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830874" FileType="1048576" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/FreeRTOS.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173174" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/croutine.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173163" FileType="45637" CompNumb="5" />
+      <File Name="Documentation/lios_base_Settings.xml" FileDate="2019-01-08, 23:08:56" FileAge="1546985336245" FileType="3072" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173270" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/UTIL1.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173346" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/Common/mpu_wrappers.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173325" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/MemMang/heap_useNewlib.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173230" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/croutine.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173168" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/UTIL1.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173344" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/FreeRTOS/Source/FreeRTOS_license.txt" FileDate="2019-01-08, 22:16:13" FileAge="1546982173237" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/stack_macros.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173286" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/freertos_tasks_c_additions.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173315" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/smc_hw_access.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830847" FileType="1048576" />
+      <File Name="SDK/platform/devices/status.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830853" FileType="1048576" />
+      <File Name="Generated_Code/clockMan1.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830883" FileType="45637" CompNumb="3" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/timers.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173295" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/devices/common/s32_core_cm4.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830859" FileType="1048576" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/semphr.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173284" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/clockMan1.c" FileDate="2019-01-08, 22:10:30" FileAge="1546981830880" FileType="45637" CompNumb="3" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/mpu_prototypes.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173321" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/deprecated_definitions.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173273" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830836" FileType="1048576" />
+      <File Name="Sources/Events.h" FileDate="2019-01-08, 23:06:12" FileAge="1546985172116" FileType="131328" />
+      <File Name="Generated_Code/FreeRTOS/Source/queue.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173278" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/mpu_wrappers.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173319" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/tasks.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173292" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.c" FileDate="2019-01-08, 22:10:30" FileAge="1546981830834" FileType="1048576" />
+      <File Name="Sources/Events.c" FileDate="2019-01-08, 23:04:31" FileAge="1546985071566" FileType="131328" />
+      <File Name="Generated_Code/FreeRTOS/Source/event_groups.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173300" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/MCUC1.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173353" FileType="45637" CompNumb="8" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/pcc_hw_access.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830838" FileType="1048576" />
+      <File Name="SDK/platform/drivers/inc/clock_manager.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830849" FileType="1048576" />
+      <File Name="Generated_Code/MCUC1.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173351" FileType="45637" CompNumb="8" />
+      <File Name="SDK/platform/drivers/src/pins/pins_port_hw_access.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830823" FileType="1048576" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/GCC/ARM_CM4F/readme_gdbBacktraceDebug.txt" FileDate="2019-01-08, 22:16:13" FileAge="1546982173328" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/list.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173245" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/pins/pins_port_hw_access.c" FileDate="2019-01-08, 22:10:30" FileAge="1546981830819" FileType="1048576" />
+      <File Name="SDK/platform/devices/devassert.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830852" FileType="1048576" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/portable.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173264" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/timers.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173298" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/queue.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173281" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/clock/clock_manager.c" FileDate="2019-01-08, 22:10:30" FileAge="1546981830831" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/pins/pins_driver.c" FileDate="2019-01-08, 22:10:30" FileAge="1546981830811" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/interrupt/interrupt_manager.c" FileDate="2019-01-08, 22:10:30" FileAge="1546981830826" FileType="1048576" />
+      <File Name="Documentation/lios_base.txt" FileDate="2019-01-08, 22:16:13" FileAge="1546982173480" FileType="3072" />
+      <File Name="SDK/platform/drivers/inc/pins_driver.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830818" FileType="1048576" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/GCC/ARM_CM4F/.gdbinit-FreeRTOS-helpers" FileDate="2019-01-08, 22:16:13" FileAge="1546982173331" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/projdefs.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173275" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/MCUC1config.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173348" FileType="45637" CompNumb="8" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830861" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/scg_hw_access.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830844" FileType="1048576" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2019-01-08, 22:10:30" FileAge="1546981830862" FileType="1048576" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173365" FileType="45637" CompNumb="1" />
+      <File Name="SDK/platform/devices/S32K144/startup/system_S32K144.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830866" FileType="1048576" />
+      <File Name="Generated_Code/FreeRTOS_config.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173337" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173371" FileType="45637" CompNumb="1" />
+      <File Name="Sources/main.c" FileDate="2019-01-08, 23:10:20" FileAge="1546985420950" FileType="128" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/pmc_hw_access.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830841" FileType="1048576" />
+      <File Name="SDK/platform/devices/S32K144/startup/system_S32K144.c" FileDate="2019-01-08, 22:10:30" FileAge="1546981830868" FileType="1048576" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/list.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173240" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/task.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173289" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/MemMang/heap_5.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173223" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/GCC/ARM_CM4F/portTicks.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173261" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS_component.h" FileDate="2019-01-08, 23:08:56" FileAge="1546985336117" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/MemMang/heap_4.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173218" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/MemMang/heap_useNewlib.txt" FileDate="2019-01-08, 22:16:13" FileAge="1546982173235" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/drivers/inc/interrupt_manager.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830828" FileType="1048576" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/GCC/ARM_CM4F/portasm.s" FileDate="2019-01-08, 22:16:13" FileAge="1546982173268" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/include/message_buffer.h" FileDate="2019-01-08, 22:16:13" FileAge="1546982173312" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/MemMang/heap_3.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173213" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/devices/callbacks.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830857" FileType="1048576" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173259" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/Source/portable/MemMang/heap_2.c" FileDate="2019-01-08, 22:16:13" FileAge="1546982173207" FileType="45637" CompNumb="5" />
+      <File Name="Generated_Code/FreeRTOS/config/gcc/FreeRTOSConfig.h" FileDate="2019-01-08, 23:08:56" FileAge="1546985336153" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/pins/pins_gpio_hw_access.h" FileDate="2019-01-08, 22:10:30" FileAge="1546981830814" FileType="1048576" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>4</CodeGenReference>
+</CodeGenerationInfo>
